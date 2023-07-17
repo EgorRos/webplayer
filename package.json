@@ -1,0 +1,11 @@
+{
+  "name": "web-player-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "g3orgros@gamil.com",
+  "license": "ISC"
+}
