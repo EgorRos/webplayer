@@ -7,5 +7,9 @@
     "test": "test"
   },
   "author": "g3orgros@gamil.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.0",
+    "react-bootstrap": "^2.8.0"
+  }
 }
